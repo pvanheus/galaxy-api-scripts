@@ -1,6 +1,9 @@
 """
 Common methods used by the API sample scripts.
+
+Taken from the Galaxy codebase - scripts/api/common.py - and thus copyright (c) Galaxy Contributors.
 """
+
 import json
 import logging
 import os
